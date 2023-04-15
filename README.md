@@ -1,2 +1,2 @@
 # EVMTransactionsRepeater
- You can repeat list of different transactions on other EVM accounts
+ You can replicate list of different transactions on other EVM accounts
